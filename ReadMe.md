@@ -147,9 +147,10 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
   
 - [[CVPR](https://arxiv.org/pdf/2201.01501.pdf)] Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss . [__`dep.`__ __`seq.`__ __`recon.`__ ] 
 
-  Reader: Kai Cheng 
+  Reader: Kai Cheng;  Recommendation: 3
+  
   Idea: Unify the loss of classfication and Regression for depth estimation.
-  Recommendation: 3
+  
 
 ### RGBD Reconstrution
 
