@@ -2,6 +2,12 @@
 
 For anyone who wants to do research about image-based 3D reconstruction.   
 
+There are also some books for reference.
+《视觉SLAM十四讲》 高翔
+《Multi-view Geometry in Computer Vision》 Richard Hartley Andrew Zisserman
+《Multi-view Stereo: A tutorial》
+《Bundle Adjustment: A Morden Synthesis》
+
 <h1> 
 
 ```diff
