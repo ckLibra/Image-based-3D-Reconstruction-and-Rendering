@@ -40,7 +40,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 </figure>
 
 
-## 2017
+# 2017
 - [[NIPS](https://arxiv.org/pdf/1708.05375.pdf)] Learning a Multi-View Stereo Machine. [__`seq.`__ __`recon.`__]
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2017/papers/Ummenhofer_DeMoN_Depth_and_CVPR_2017_paper.pdf)] DeMoN: Depth and Motion Network for Learning Monocular Stereo. [[tensorflow](https://github.com/lmb-freiburg/demon)] [__`dep.`__ __`pos.`__ __`seq.`__] :fire: :star:
 
@@ -49,7 +49,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 
 ---
-## 2018
+# 2018
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Fu_Deep_Ordinal_Regression_CVPR_2018_paper.pdf)] Deep Ordinal Regression Network for Monocular Depth Estimation. [[pytorch](https://github.com/dontLoveBugs/DORN_pytorch)] [__`dep.`__ ] :fire: :star:
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_Monocular_Relative_Depth_CVPR_2018_paper.pdf)] Monocular Relative Depth Perception with Web Stereo Data Supervision. [[caffe](https://github.com/Huangying-Zhan/Depth-VO-Feat)] [__`dep.`__] :fire: :star:
 - [[CVPR](https://openaccess.thecvf.com/content_cvpr_2018/papers/Li_MegaDepth_Learning_Single-View_CVPR_2018_paper.pdf)] MegaDepth: Learning Single-View Depth Prediction from Internet Photos. [[pytorch](https://github.com/zl548/MegaDepth)] [__`dep.`__ ] :fire: :star:
@@ -68,7 +68,7 @@ Learning. [__`dep.`__ __`pos.`__ __`seq.`__ __`video.`__ __`uns.`__]
 
 
 ---
-## 2019
+# 2019
 - [[Arxiv](https://arxiv.org/pdf/1907.10326v5.pdf)] From Big to Small: Multi-Scale Local Planar Guidance
 for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/bts)] [__`dep.`__ ] :fire: :star:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Single-Image_Depth_From_Videos_Using_Quality_Assessment_Networks_CVPR_2019_paper.pdf)]Learning Single-Image Depth from Videos using Quality Assessment Networks [[pytorch](https://github.com/princeton-vl/YouTube3D)] [__`dep.`__ ] :fire: :star:
@@ -90,7 +90,7 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 
 
 ---
-## 2020
+# 2020
 - [[Arxiv](https://arxiv.org/pdf/2002.00569.pdf)] DiverseDepth: Affine-invariant Depth Prediction Using Diverse Data. [[pytorch](https://github.com/YvanYin/DiverseDepth)] [__`dep.`__ ] :fire: :star:
 - [[CVPR](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xian_Structure-Guided_Ranking_Loss_for_Single_Image_Depth_Prediction_CVPR_2020_paper.pdf)] Structure-Guided Ranking Loss for Single Image Depth Prediction [[pytorch](https://github.com/KexianHust/Structure-Guided-Ranking-Loss)] [__`dep.`__] :fire: :star:
 - [[TPAMI](https://arxiv.org/pdf/1907.01341v2.pdf)] Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-shot Cross-dataset Transfer[[pytorch](https://github.com/isl-org/MiDaS)] [__`dep.`__ ] :fire: :star:
@@ -115,7 +115,7 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 
 
 ---
-## 2021
+# 2021
 - [[AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16282)] Patch-Wise Attention Network for Monocular Depth Estimation.  [__`dep.`__ ]
 - [[TPAMI](https://arxiv.org/pdf/2103.04216.pdf)] Virtual Normal: Enforcing Geometric Constraints for Accurate and Robust Depth Prediction[[pytorch](https://github.com/YvanYin/VNL_Monocular_Depth_Prediction)] [__`dep.`__ ] :fire: :star:
 - [[CVPR](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhat_AdaBins_Depth_Estimation_Using_Adaptive_Bins_CVPR_2021_paper.pdf)] AdaBins: Depth Estimation Using Adaptive Bins [[pytorch](https://github.com/shariqfarooq123/AdaBins)] [__`dep.`__ ] :fire: :star:
@@ -135,7 +135,7 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 - [[IJCV](https://jwbian.net/Papers/SC_Depth_IJCV_21.pdf)] Unsupervised Scale-consistent Depth Learning from Video. [[pytorch](https://github.com/JiawangBian/SC-SfMLearner-Release)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__] :fire: :star:
 - [[NIPS](https://papers.nips.cc/paper/2021/file/89fcd07f20b6785b92134bd6c1d0fa42-Paper.pdf)] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras. [[pytorch](https://github.com/aim-uofa/AdelaiDepth)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`oth.`__]  :fire: :star:
 ---
-## 2022
+# 2022
 
 ### Single Image Depth Estimation
 
