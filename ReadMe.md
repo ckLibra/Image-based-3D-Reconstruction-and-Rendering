@@ -3,6 +3,7 @@
 For anyone who wants to do research about image-based 3D reconstruction.   
 
 There are also some books for reference. They are traditional image-based reconstruction, including the topic on SfM (structure from motion), MVS (Multi-view Stereo) and SLAM (Simultaneous Location and Mapping).
+
 《视觉SLAM十四讲》 高翔
 
 《Multi-view Geometry in Computer Vision》 Richard Hartley, Andrew Zisserman
