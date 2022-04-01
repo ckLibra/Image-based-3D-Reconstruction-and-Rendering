@@ -1,6 +1,6 @@
 # awesome-monocular-reconstruction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-For anyone who wants to do research about 3D monocular reconstruction.   
+For anyone who wants to do research about image-based 3D reconstruction.   
 
 <h1> 
 
@@ -18,7 +18,7 @@ __`pose.`__: pose estimation &emsp; | &emsp; __`video.`__: video
 
 __`seq.`__: sequence  &emsp; | &emsp; __`uns.`__: unsupervised
 
-__`recon.`__: reconstruction &emsp; | &emsp; __`oth.`__: other
+__`recon.`__: reconstruction &emsp; | &emsp; __`implicit.`__: implicit representation
 
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
