@@ -2,8 +2,6 @@
 
 For anyone who wants to do research about 3D monocular reconstruction.   
 
-If you find the awesome paper/code/dataset or have some suggestions, please feel free to contact linzhuochen@foxmail.com. Thanks for your valuable contribution to the research community :smiley:   
-
 <h1> 
 
 ```diff
