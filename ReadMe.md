@@ -53,7 +53,9 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
   
 ### RGB & RGBD Reconstruction
 
-- [[arxiv](https://arxiv.org/abs/2111.12905)] CIRCLE: Convolutional Implicit Reconstruction and Completion for Large-scale Indoor Scene ['seq.' 'recon.']
+- [[arxiv](https://arxiv.org/abs/2111.12905)] CIRCLE: Convolutional Implicit Reconstruction and Completion for Large-scale Indoor Scene [__`implicit.`__ __`recon.`__]
+
+- [[CVPR](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/static/pdf/neural_rgbd_surface_reconstruction.pdf)] Neural RGB-D Surface Reconstruction [__`implicit.`__ __`recon.`__]
 
 ### Pose Estimation
 
