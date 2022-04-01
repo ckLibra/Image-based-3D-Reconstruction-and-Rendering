@@ -151,7 +151,7 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 
   Reader: Kai Cheng;  Recommendation: 3
   
-  Idea: Unify the loss of classfication and Regression for depth estimation.
+  Idea: Unify the loss of classfication and regression for depth estimation.
   
 ### Multi-view Reconstruction
 
