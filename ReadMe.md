@@ -146,6 +146,7 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 - [[CVPR](https://arxiv.org/pdf/2112.02338.pdf)] Generalized Binary Search Network for Highly-Efficient Multi-View Stereo. [[code](https://github.com/MiZhenxing/GBi-Net)]  [__`dep.`__ __`seq.`__ __`recon.`__ ] 
   
 - [[CVPR](https://arxiv.org/pdf/2201.01501.pdf)] Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss . [__`dep.`__ __`seq.`__ __`recon.`__ ] 
+
   Reader: Kai Cheng 
   Idea: Unify the loss of classfication and Regression for depth estimation.
   Recommendation: 3
