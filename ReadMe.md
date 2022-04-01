@@ -53,6 +53,8 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
   
 ### RGB & RGBD Reconstruction
 
+- [[arxiv](https://arxiv.org/abs/2111.12905)] CIRCLE: Convolutional Implicit Reconstruction and Completion for Large-scale Indoor Scene ['seq.' 'recon.']
+
 ### Pose Estimation
 
 ### Rendering (Nerf)
