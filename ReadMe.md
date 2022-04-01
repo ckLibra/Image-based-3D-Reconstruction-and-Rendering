@@ -1,4 +1,4 @@
-# awesome-monocular-reconstruction [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Image-based 3D reconstruction & Rendering[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 For anyone who wants to do research about image-based 3D reconstruction.   
 
