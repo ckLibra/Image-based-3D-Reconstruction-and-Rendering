@@ -153,9 +153,7 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
   
   Idea: Unify the loss of classfication and regression for depth estimation.
   
-### Multi-view Reconstruction
-
-### RGBD Reconstrution
+### RGB & RGBD Reconstruction
 
 ### Pose Estimation
 
