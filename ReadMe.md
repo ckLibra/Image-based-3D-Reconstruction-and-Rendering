@@ -30,6 +30,8 @@ __`seq.`__: sequence  &emsp; | &emsp; __`uns.`__: unsupervised
 
 __`recon.`__: reconstruction &emsp; | &emsp; __`implicit.`__: implicit representation
 
+__`nerf.`__: nerf
+
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
 
