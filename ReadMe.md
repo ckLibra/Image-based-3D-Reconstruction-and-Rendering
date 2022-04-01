@@ -57,7 +57,7 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - [[CVPR](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/static/pdf/neural_rgbd_surface_reconstruction.pdf)] Neural RGB-D Surface Reconstruction [__`implicit.`__ __`recon.`__]
 
--[[CVPR](https://arxiv.org/pdf/2203.11283.pdf)] NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction [__`implicit.`__ __`recon.`__ __`nerf.`__]
+- [[CVPR](https://arxiv.org/pdf/2203.11283.pdf)] NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction [__`implicit.`__ __`recon.`__ __`nerf.`__]
 
 ### Pose Estimation
 
