@@ -136,9 +136,30 @@ for Monocular Depth Estimation. [[pytorch+tensorflow](https://github.com/cleinc/
 - [[NIPS](https://papers.nips.cc/paper/2021/file/89fcd07f20b6785b92134bd6c1d0fa42-Paper.pdf)] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras. [[pytorch](https://github.com/aim-uofa/AdelaiDepth)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`oth.`__]  :fire: :star:
 ---
 ## 2022
-- [[CVPR](https://arxiv.org/pdf/2112.02338.pdf)] Generalized Binary Search Network for Highly-Efficient Multi-View Stereo. [[code](https://github.com/MiZhenxing/GBi-Net)]  [__`dep.`__ __`seq.`__ __`recon.`__ ] 
-- [[CVPR](https://arxiv.org/pdf/2201.01501.pdf)] Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss . [__`dep.`__ __`seq.`__ __`recon.`__ ] 
+
+# Single Image Depth Estimation
 
 - [[CVPR](https://arxiv.org/pdf/2112.02306.pdf)] Toward Practical Self-Supervised Monocular Indoor Depth Estimation  [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__]
+
+# Multi-view Depth Estimation (MVS) & Video Depth Estimation
+
+- [[CVPR](https://arxiv.org/pdf/2112.02338.pdf)] Generalized Binary Search Network for Highly-Efficient Multi-View Stereo. [[code](https://github.com/MiZhenxing/GBi-Net)]  [__`dep.`__ __`seq.`__ __`recon.`__ ] 
+  
+
+
+- [[CVPR](https://arxiv.org/pdf/2201.01501.pdf)] Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation and Focal Loss . [__`dep.`__ __`seq.`__ __`recon.`__ ] 
+  Reader: Kai Cheng 
+  Idea: Unify the loss of classfication and Regression for depth estimation.
+  Recommendation: 3
+
+# RGBD Reconstrution
+
+# Pose Estimation
+
+# Rendering (Nerf)
+
+
+
+
 
 
