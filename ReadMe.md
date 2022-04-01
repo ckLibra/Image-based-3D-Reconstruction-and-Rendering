@@ -35,12 +35,6 @@ __`nerf.`__: nerf
 Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citation >= 50
 
 
-
-<figure class="half">
-    <img src="./imgs/conference.png">
-    <img src="./imgs/task.png">
-</figure>
-
 # 2022
 
 ### Single Image Depth Estimation
