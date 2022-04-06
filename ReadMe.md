@@ -55,7 +55,11 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 
 - [[arxiv](https://arxiv.org/abs/2111.12905)] CIRCLE: Convolutional Implicit Reconstruction and Completion for Large-scale Indoor Scene [__`implicit.`__ __`recon.`__]
 
-- [[CVPR](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/static/pdf/neural_rgbd_surface_reconstruction.pdf)] Neural RGB-D Surface Reconstruction [__`implicit.`__ __`recon.`__]
+- [[CVPR](https://dazinovic.github.io/neural-rgbd-surface-reconstruction/static/pdf/neural_rgbd_surface_reconstruction.pdf)] Neural RGB-D Surface Reconstruction [__`implicit.`__ __`recon.`____ __`nerf.`__]
+
+  Reader: Guangkai Xu;  Recommendation: 3
+  
+  Idea: GT depth guided high-quality scenes reconstruction with unperfect init pose and nerf with density of transformed SDF.
 
 - [[CVPR](https://arxiv.org/pdf/2203.11283.pdf)] NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction [__`implicit.`__ __`recon.`__ __`nerf.`__]
 
@@ -85,6 +89,19 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[3DV](https://arxiv.org/pdf/2104.15119v2.pdf)] Deep Multi-View Stereo gone wild. [[pytorch](https://github.com/fdarmon/wild_deep_mvs)] [__`dep.`__ __`seq.`__ __`recon.`__ ] 
 - [[IJCV](https://jwbian.net/Papers/SC_Depth_IJCV_21.pdf)] Unsupervised Scale-consistent Depth Learning from Video. [[pytorch](https://github.com/JiawangBian/SC-SfMLearner-Release)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`uns.`__] :fire: :star:
 - [[NIPS](https://papers.nips.cc/paper/2021/file/89fcd07f20b6785b92134bd6c1d0fa42-Paper.pdf)] DROID-SLAM: Deep Visual SLAM for Monocular, Stereo, and RGB-D Cameras. [[pytorch](https://github.com/aim-uofa/AdelaiDepth)] [__`dep.`__ __`seq.`__ __`video.`__ __`pose.`__ __`oth.`__]  :fire: :star:
+
+### Rendering (Nerf)
+- [[ICCV](https://arxiv.org/abs/2109.01129)] NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo [__`implicit.`__ __`depth.`__ __`nerf.`__]
+
+  Reader: Guangkai Xu;  Recommendation: 3
+  
+  Idea: Sampling points along rays guided by depth priors learned from sparse sfm depth. (But the reconstruction is not performed in this paper.)
+  
+- [[NIPS](https://arxiv.org/abs/2106.12052)] Volume Rendering of Neural Implicit Surfaces [__`implicit.`__  __`nerf.`__]
+
+  Reader: Guangkai Xu;  Recommendation: 2
+  
+  Idea: Represent density as transformed SDF values, and theoretical analysis for the bound error of sampling.
 
 ---
 
